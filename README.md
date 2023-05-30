@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/2r757w6hqh70gal3?svg=true)](https://ci.appveyor.com/project/julija9531/07-js-ugl-07-01-nicknames)
